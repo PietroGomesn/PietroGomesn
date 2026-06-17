@@ -12,5 +12,5 @@
 Construir uma carreira na área de tecnologia, desenvolvendo soluções inovadoras e aprimorando constantemente minhas habilidades.
 
 📫 Contato:
-- LinkedIn: Pietro Gomes Nunes
+- LinkedIn: https://www.linkedin.com/in/pietro-gomes-nunes-404256347/
 - E-mail: gomesnunespietro1@gmail.com
