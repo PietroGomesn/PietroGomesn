@@ -1,16 +1,16 @@
-## Hi there 👋
+# Olá, eu sou Pietro 👋
 
-<!--
-**PietroGomesn/PietroGomesn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante do Ensino Médio Técnico em Análise e Desenvolvimento de Sistemas
 
-Here are some ideas to get you started:
+💻 Atualmente aprendendo:
+- Java
+- Banco de Dados
+- Lógica de Programação
+- Desenvolvimento Web
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Objetivo:
+Construir uma carreira na área de tecnologia, desenvolvendo soluções inovadoras e aprimorando constantemente minhas habilidades.
+
+📫 Contato:
+- LinkedIn: Pietro Gomes Nunes
+- E-mail: gomesnunespietro1@gmail.com
